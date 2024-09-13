@@ -9,11 +9,15 @@ Axios is used to make HTTP requests.
    ```
    git clone https://github.com/bindu-1805/List_Items.git
    ```
-2. Install dependencies 
+2. Navigate to the project directory
+   ```
+   cd folder_name
+   ```
+3. Install dependencies 
    ```
    npm install
    ```
-3. Run the app
+4. Run the app
    ```
    npm start
    ```
