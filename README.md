@@ -11,7 +11,7 @@ Axios is used to make HTTP requests.
    ```
 2. Navigate to the project directory
    ```
-   cd folder_name
+   cd List_Items
    ```
 3. Install dependencies 
    ```
